@@ -37,7 +37,7 @@ It's not hard to create your own repostiory.
 
 Samples of Student Work: Lowell High School, San Francisco, California
 -----------------------
-[*Curriculum developed by Art Simon]
+*Curriculum developed by Art Simon
 
 [Johnny](https://jowong30.github.io/SierpinskiTriangle/)   
 [Yanzhu](https://yanzhug.github.io/SierpinskiTriangle/)   
