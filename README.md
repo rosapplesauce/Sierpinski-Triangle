@@ -9,7 +9,7 @@ Start with any triangle, though the usual Sierpinski triangle uses an equilatera
 
 Suggested steps to complete this assignment:
 ----------------------------------------------
-1. You may find slides #1 - 46 and 70 - 73 of the [Recursion presentation]([https://docs.google.com/presentation/d/18S0EB1FL7U0c7BobGplV5LJfJ7WHh5eJoJwVK_8yhyc/edit?usp=sharing](https://docs.google.com/presentation/d/1rAQpRXe-GkMJ_q7gEYORaginpBi5TBJOX0TEvHHB5lw/edit?usp=sharing)) and  the [Recursion 1 worksheet](https://docs.google.com/document/d/1GFdus7n-fHxh-AAjipfKSjKINXkrZXSZ/edit?usp=sharing&ouid=104288746284471816765&rtpof=true&sd=true) helpful.
+1. You may find slides #1 - 46 and 70 - 73 of the [Recursion presentation](https://docs.google.com/presentation/d/1rAQpRXe-GkMJ_q7gEYORaginpBi5TBJOX0TEvHHB5lw/edit?usp=sharing) and  the [Recursion 1 worksheet](https://docs.google.com/document/d/1GFdus7n-fHxh-AAjipfKSjKINXkrZXSZ/edit?usp=sharing&ouid=104288746284471816765&rtpof=true&sd=true) helpful.
 2. Fork and clone down this repository.
 3. Write the `sierpinski` function:
 
