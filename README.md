@@ -36,8 +36,8 @@ It's not hard to create your own repostiory.
 5. To display your program on the web, you will want to enable GitHub pages. Go to the settings for your repository, scroll down to the GitHub pages section, choose `Master branch` and click *Save*.   
 
 Samples of Student Work: Lowell High School, San Francisco, California
-Curriculum developed by Art Simon
 -----------------------
+Curriculum developed by Art Simon
 [Johnny](https://jowong30.github.io/SierpinskiTriangle/)   
 [Yanzhu](https://yanzhug.github.io/SierpinskiTriangle/)   
 [Edison](https://edchen5.github.io/SierpinskiTriangle/)   
