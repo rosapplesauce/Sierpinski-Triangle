@@ -9,7 +9,7 @@ Start with any triangle, though the usual Sierpinski triangle uses an equilatera
 
 Suggested steps to complete this assignment:
 ----------------------------------------------
-1. You may find slides #1 - 46 and 70 - 73 of the [Recursion presentation](https://docs.google.com/presentation/d/1rAQpRXe-GkMJ_q7gEYORaginpBi5TBJOX0TEvHHB5lw/edit?usp=sharing) and  the [Recursion 1 worksheet](https://docs.google.com/document/d/1GFdus7n-fHxh-AAjipfKSjKINXkrZXSZ/edit?usp=sharing&ouid=104288746284471816765&rtpof=true&sd=true) helpful.
+1. You may find slides #1 - 45 of the [Recursion presentation](https://docs.google.com/presentation/d/1rAQpRXe-GkMJ_q7gEYORaginpBi5TBJOX0TEvHHB5lw/edit?usp=sharing) and  the [Recursion 1 worksheet](https://docs.google.com/document/d/1GFdus7n-fHxh-AAjipfKSjKINXkrZXSZ/edit?usp=sharing&ouid=104288746284471816765&rtpof=true&sd=true) helpful.
 2. Fork and clone down this repository.
 3. Write the `sierpinski` function:
 
@@ -36,6 +36,7 @@ It's not hard to create your own repostiory.
 5. To display your program on the web, you will want to enable GitHub pages. Go to the settings for your repository, scroll down to the GitHub pages section, choose `Master branch` and click *Save*.   
 
 Samples of Student Work: Lowell High School, San Francisco, California
+Curriculum developed by Art Simon
 -----------------------
 [Johnny](https://jowong30.github.io/SierpinskiTriangle/)   
 [Yanzhu](https://yanzhug.github.io/SierpinskiTriangle/)   
